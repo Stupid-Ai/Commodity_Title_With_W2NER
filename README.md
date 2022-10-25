@@ -1,0 +1,2 @@
+# Commodity_Title_With_W2NER
+使用pytorch和W2NER完成商品标题的实体识别
