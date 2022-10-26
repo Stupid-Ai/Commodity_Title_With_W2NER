@@ -1,0 +1,12 @@
+fastapi==0.85.0
+gensim==4.2.0
+jieba==0.42.1
+numpy==1.23.3
+pandas==1.4.4
+prettytable==3.4.1
+requests==2.28.1
+scikit_learn==1.1.2
+torch==1.12.1
+tqdm==4.64.1
+transformers==4.21.3
+uvicorn==0.18.3
